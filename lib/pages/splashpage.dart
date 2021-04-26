@@ -38,7 +38,7 @@ class _SplashPageState extends State<SplashPage> {
           ),
         ),
         child: Text(
-          "Welecome",
+          "Welcome",
           style: TextStyle(
               color: Colors.white,
               fontStyle: FontStyle.italic,
